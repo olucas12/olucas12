@@ -5,10 +5,10 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas no IFSP Catandu
 Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades para enfrentar novos desafios no campo de TI.
 
 
-Sobre mim
-🎓 Formação: Técnico em Redes de Computadores e Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo Campus Catanduva
-💼 Trabalho atual: Assistente de Infraestrutura na Colombo Agroindustria
-🌱 Estou aprendendo: Python, HTML, CSS, JavaScript, Banco de Dados SQL e NoSQL, C++
-🎯 Objetivos: Trabalhar com programação e análise de dados
+Sobre mim<br/>
+🎓 Formação: Técnico em Redes de Computadores e Análise e Desenvolvimento de Sistemas no IFSP Catanduva <br/>
+💼 Trabalho atual: Assistente de Infraestrutura na Colombo Agroindustria<br/>
+🌱 Estou aprendendo: Python, HTML, CSS, JavaScript, Banco de Dados SQL e NoSQL, C++<br/>
+🎯 Objetivos: Trabalhar com programação e análise de dados<br/>
 
 lucashenriqsilva@hotmail.com
