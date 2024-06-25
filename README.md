@@ -4,7 +4,7 @@ Trabalho na Central de Suporte da Colombo Agroindustria, onde ajudo a fornecer s
 Atualmente estou cursando Análise e Desenvolvimento de Sistemas no IFSP Catanduva, e tenho conhecimentos sólidos em redes, servidores e segurança. <br/>
 Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades para enfrentar novos desafios no campo de TI.<br/>
 
-<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olucas12&hide_progress=true&theme=synthwave)
 
 ### Sobre mim<br/>
 🎓 Formação: Técnico em Redes de Computadores e Análise e Desenvolvimento de Sistemas no IFSP Catanduva <br/>
