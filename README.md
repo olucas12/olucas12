@@ -6,7 +6,7 @@ Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades 
 
 <br/>
 
-Sobre mim<br/>
+### Sobre mim<br/>
 🎓 Formação: Técnico em Redes de Computadores e Análise e Desenvolvimento de Sistemas no IFSP Catanduva <br/>
 💼 Trabalho atual: Assistente de Infraestrutura na Colombo Agroindustria<br/>
 🌱 Estou aprendendo: Python, HTML, CSS, JavaScript, Banco de Dados SQL e NoSQL, C++<br/>
