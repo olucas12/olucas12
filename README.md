@@ -1,5 +1,5 @@
 # Olá! Eu sou Lucas Silva 👋
-Assistente de Infraestrutura com foco em apoiar e otimizar ambientes de TI. <br/>
+Analista de Sistemas com foco em apoiar e otimizar ambientes de TI. <br/>
 Atuo na Central de Suporte da Colombo Agroindustria, onde contribuo para a transformação digital e excelência operacional com suporte técnico de alta qualidade. <br/>
 Atualmente estou cursando Análise e Desenvolvimento de Sistemas no IFSP Catanduva, e tenho conhecimentos sólidos em redes, servidores e segurança. <br/>
 Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades para enfrentar novos desafios no campo de TI.<br/>
