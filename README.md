@@ -7,9 +7,9 @@ Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olucas12&hide_progress=true&theme=synthwave)
 
 ### Sobre mim<br/>
-- **Formação Acadêmica:** Técnico em Redes de Computadores e Cursando Análise e Desenvolvimento de Sistemas (IFSP Catanduva)
-- **Experiência Profissional:** Assistente de Infraestrutura na Colombo Agroindustria
-- **Competências em Desenvolvimento:** Foco em desenvolvimento web com ênfase em soluções backend, integração de sistemas e gestão de bancos de dados.
-- **Objetivos:** Atuar na programação e análise de dados, promovendo inovação e eficiência.
+- **Formação Acadêmica:** Técnico em Redes de Computadores e Tecnólogo Análise e Desenvolvimento de Sistemas pelo IFSP Campus Catanduva. Atualmente cursando Pós-Graduação MIT em Engenharia de IA, Machine Learning e Deep Learning pela InfNet.
+- **Experiência Profissional:** Assistente de Infraestrutura e atualmente Analista de Sistemas JR na Colombo Agroindustria.
+- **Competências em Desenvolvimento:** Foco em desenvolvimento web com ênfase em soluções backend, integração de sistemas, gestão de bancos de dados e automação.
+- **Objetivos:** Atuar na programação e automação, promovendo inovação e eficiência.
 
 📧 **Contato:** [lucashenriqsilva@hotmail.com](mailto:lucashenriqsilva@hotmail.com)
